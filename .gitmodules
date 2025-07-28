@@ -1,0 +1,6 @@
+[submodule "android_kernels_oppo_mt6833"]
+	path = android_kernels_oppo_mt6833
+	url = https://github.com/xegang/android_kernels_oppo_mt6833.git
+[submodule "android_kernel_moduless_oppo_mt6833"]
+	path = android_kernel_moduless_oppo_mt6833
+	url = https://github.com/xegang/android_kernel_moduless_oppo_mt6833.git
